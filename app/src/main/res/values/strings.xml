@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="containerArray">
+        <item>Choose your water Container</item>
+        <item>Glass</item>
+        <item>750 mL Bottle</item>
+        <item>1 L Bottle</item>
+        <item>2 L Bottle</item>
+    </string-array>
+    <string name="app_name">Hydroxy</string>
+    <string name="main_act_weight_hint">Body Weight</string>
+    <string name="main_act_butt_txt">Save</string>
+    <string name="app_activity_top1">Daily Goal : </string>
+</resources>
